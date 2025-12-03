@@ -1,0 +1,18 @@
+
+# Deep Learning (for AraBERT, Zero-Shot classification)
+torch>=2.0.0
+transformers>=4.30.0
+
+# Advanced Visualization
+plotly>=5.14.0
+
+# Arabic Text Rendering (for PDF/image generation with Arabic)
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+
+# Configuration Management
+python-dotenv>=1.0.0
+
+# Excel File Support
+openpyxl>=3.1.0
+xlrd>=2.0.1

@@ -1,0 +1,25 @@
+# Core Dependencies
+# Essential packages for the project to run
+
+# Data Science & Machine Learning
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Arabic NLP
+nltk>=3.8.1
+camel-tools>=1.5.0
+pyarabic>=0.6.15
+
+# Visualization (Basic)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Utilities
+tqdm>=4.65.0
+requests>=2.31.0
+
